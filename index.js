@@ -14,3 +14,5 @@ function happyHolidayTo(holiday, name) {
 function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`;
 }
+
+console.log(holidayCountdown("New Year", 45));
