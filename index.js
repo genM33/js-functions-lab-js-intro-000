@@ -15,4 +15,4 @@ function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`;
 }
 
-console.log(holidayCountdown(90, "Passover"));
+console.log(holidayCountdown("National Heroes' Day", 30));
